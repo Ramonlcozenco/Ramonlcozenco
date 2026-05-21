@@ -13,7 +13,7 @@ a seguir, algumas tecnologias que possuo conhecimento e sempre buscando melhorar
 </div>
 <br />
 
->Iniciando no React Native
+>
 
 <div> 
   <a href = "mailto:ramonlcozenco@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
